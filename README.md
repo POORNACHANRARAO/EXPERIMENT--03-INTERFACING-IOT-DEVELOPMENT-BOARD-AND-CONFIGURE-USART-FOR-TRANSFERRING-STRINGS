@@ -113,8 +113,8 @@ int main(void)
   while (1)
   {
 
-	  printf("KUNAM POORNA CHANDRA RAO \n");
-	  printf("2305001012 \n");
+	  printf("NAME:KUNAM POORNA CHANDRA RAO \n");
+	  printf("REGNO:2305001012 \n");
 	  HAL_Delay(5000);
 
   }
